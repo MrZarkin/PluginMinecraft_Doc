@@ -1,0 +1,8 @@
+name: Bedwars
+version: 1.0
+author: Zarkin
+main: Main       # Le fichier main, mettre le chemin d'accès
+commands:
+  test:              # (deux espaces) <nom de la commande>
+    description: Ceci est une commande de teste
+    permission: test.use
