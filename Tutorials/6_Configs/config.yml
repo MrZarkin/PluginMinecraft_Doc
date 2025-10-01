@@ -1,0 +1,14 @@
+messages:
+  # Message lors d'un /test
+  test: "Ceci est un message de test !"
+badwords:
+  - "badword1"
+  - "badword2"
+  - "badword3"
+kits:
+  soldat: 
+    id: 5
+  boucher:
+    id: 3
+  fromagier: 
+    id: 2
